@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="EduHub.Domain/EduHub.Domain.csproj" />
+  <Project Path="EduHub/EduHub.csproj">
+    <Build Solution="Debug|*" Project="false" />
+  </Project>
+</Solution>
