@@ -1,0 +1,27 @@
+
+User Story
+BAN CLB-Chỉnh sửa thông tin sự kiện
+Với vai trò là Ban CLB, tôi muốn chỉnh sửa thông tin sự kiện, để tôi có thể cập nhật thông tin khi có thay đổi
+Tiêu chí nghiệm thu:
+- Khi Ban CLB chọn một sự kiện, hệ thống hiển thị thông tin hiện tại của sự kiện.
+- Khi Ban CLB chỉnh sửa thông tin và nhấn Lưu, hệ thống cập nhật thông tin mới thành công.
+BAN CLB-Hủy sự kiện
+Với vai trò là Ban CLB, tôi muốn hủy sự kiện, để tôi có thể xử lý những sự kiện không còn được tổ chức
+Tiêu chí nghiệm thu:
+- Khi Ban CLB chọn Hủy sự kiện, hệ thống hiển thị yêu cầu xác nhận.
+- Khi Ban CLB xác nhận hủy, trạng thái sự kiện được chuyển thành Đã hủy.
+BAN CLB-Gửi thông báo
+Với vai trò là Ban CLB, tôi muốn gửi thông báo đến các thành viên, để tôi có thể truyền đạt thông tin quan trọng của CLB
+Tiêu chí nghiệm thu:
+- Khi Ban CLB nhập đầy đủ tiêu đề và nội dung rồi nhấn Gửi, hệ thống lưu thông báo.
+- Khi thông báo được gửi thành công, thông báo được hiển thị đến các thành viên.
+Admin-Quản lý tài khoản người dùng
+Với vai trò là Admin, tôi muốn quản lý tài khoản người dùng, để tôi có thể kiểm soát tài khoản trong hệ thống
+Tiêu chí nghiệm thu:
+- Khi Admin chọn một tài khoản, hệ thống hiển thị thông tin của tài khoản đó.
+- Khi Admin thay đổi trạng thái tài khoản, hệ thống lưu lại trạng thái mới.
+Admin-Xem lịch sử hoạt động
+Với vai trò là Admin, tôi muốn xem lịch sử hoạt động của hệ thống, để tôi có thể theo dõi các thao tác đã được thực hiện.
+Tiêu chí nghiệm thu:
+- Khi Admin mở chức năng Lịch sử hoạt động, hệ thống hiển thị danh sách các hoạt động.
+- Danh sách phải hiển thị ít nhất người thực hiện, nội dung thao tác và thời gian.
